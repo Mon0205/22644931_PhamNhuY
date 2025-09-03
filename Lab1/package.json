@@ -1,0 +1,21 @@
+{
+  "name": "https://github.com/Mon0205/22644931_PhamNhuY",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noat04/https://github.com/Mon0205/22644931_PhamNhuY.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/noat04/https://github.com/Mon0205/22644931_PhamNhuY/issues"
+  },
+  "homepage": "https://github.com/noat04/https://github.com/Mon0205/22644931_PhamNhuY#readme"
+}
